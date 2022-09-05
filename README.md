@@ -3,4 +3,4 @@ Propuesta del proyecto: Como equipo elegimos el proyecto de un cajero automatico
 <img src="https://app.genmymodel.com/api/projects/_kkdEQB6jEe2TQ77rRj9fOQ/diagrams/_kkdrUh6jEe2TQ77rRj9fOQ/svg">
 https://app.genmymodel.com/api/projects/_kkdEQB6jEe2TQ77rRj9fOQ/diagrams/_kkdrUh6jEe2TQ77rRj9fOQ/svg
 
-https://wiresketch.com/lIRW0HmM/inicio 
+https://wiresketch.com/ROwhKMso/inicio
